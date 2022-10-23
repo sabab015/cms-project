@@ -13,12 +13,10 @@
 
 $connection = mysqli_connect('localhost','root','','cms');
 
-
-if($connection){
-    echo "database connected";
-}else{
-    echo "database connection failed";
-}
-
+// if($connection){
+//     echo "database connected";
+// }else{
+//     echo "database connection failed";
+// }
 
 ?>
