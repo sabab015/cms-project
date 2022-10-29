@@ -2,6 +2,8 @@
 
 <div id="wrapper">
 
+    <?php include "includes/navigation.php"; ?>
+
     <!-- Navigation -->
     <div id="page-wrapper">
 
